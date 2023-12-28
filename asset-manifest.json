@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Sahil1036/TextMe.git/static/css/main.49b7ef7b.css",
-    "main.js": "/Sahil1036/TextMe.git/static/js/main.e8cb226e.js",
-    "static/js/787.574a4694.chunk.js": "/Sahil1036/TextMe.git/static/js/787.574a4694.chunk.js",
-    "index.html": "/Sahil1036/TextMe.git/index.html",
-    "main.49b7ef7b.css.map": "/Sahil1036/TextMe.git/static/css/main.49b7ef7b.css.map",
-    "main.e8cb226e.js.map": "/Sahil1036/TextMe.git/static/js/main.e8cb226e.js.map",
-    "787.574a4694.chunk.js.map": "/Sahil1036/TextMe.git/static/js/787.574a4694.chunk.js.map"
+    "main.css": "/Sahil1036/TextMe/static/css/main.49b7ef7b.css",
+    "main.js": "/Sahil1036/TextMe/static/js/main.c39e5b98.js",
+    "static/js/787.7bc91aba.chunk.js": "/Sahil1036/TextMe/static/js/787.7bc91aba.chunk.js",
+    "index.html": "/Sahil1036/TextMe/index.html",
+    "main.49b7ef7b.css.map": "/Sahil1036/TextMe/static/css/main.49b7ef7b.css.map",
+    "main.c39e5b98.js.map": "/Sahil1036/TextMe/static/js/main.c39e5b98.js.map",
+    "787.7bc91aba.chunk.js.map": "/Sahil1036/TextMe/static/js/787.7bc91aba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49b7ef7b.css",
-    "static/js/main.e8cb226e.js"
+    "static/js/main.c39e5b98.js"
   ]
 }
