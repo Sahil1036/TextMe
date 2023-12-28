@@ -18,7 +18,7 @@ function App() {
   };
   return (
     <>
-      <Router>
+      <Router basename="/TextMe">
         <Navbar
           NavbarName="TextMe"
           AboutName="AboutMe"
@@ -46,7 +46,7 @@ function App() {
             path="/"
             element={<Textarea showMess={showMess} Theme={Mode} />}
           />
-          <Route exact path="about" element={<About Theme={Mode} />} />
+          <Route exact path="/about" element={<About Theme={Mode} />} />
         </Routes>
       </Router>
     </>
