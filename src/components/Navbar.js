@@ -9,7 +9,7 @@ export default function ({ NavbarName, AboutName, Theme, Toggle, showMess }) {
       <div className="container-fluid">
         <NavLink
           className="navbar-brand"
-          to="/TextMe"
+          to="/"
           style={{ cursor: "pointer" }}
           onClick={() => {
             showMess("Home Section is Opened");
@@ -34,7 +34,7 @@ export default function ({ NavbarName, AboutName, Theme, Toggle, showMess }) {
               <NavLink
                 className="nav-link active"
                 aria-current="page"
-                to="/TextMe"
+                to="/"
                 style={{ cursor: "pointer" }}
                 onClick={() => {
                   showMess("Home Section is Opened");
