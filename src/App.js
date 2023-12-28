@@ -18,7 +18,7 @@ function App() {
   };
   return (
     <>
-      <Router basename="/TextMe">
+      <Router>
         <Navbar
           NavbarName="TextMe"
           AboutName="AboutMe"
