@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Sahil1036/TextMe/static/css/main.49b7ef7b.css",
-    "main.js": "/Sahil1036/TextMe/static/js/main.c39e5b98.js",
-    "static/js/787.7bc91aba.chunk.js": "/Sahil1036/TextMe/static/js/787.7bc91aba.chunk.js",
-    "index.html": "/Sahil1036/TextMe/index.html",
-    "main.49b7ef7b.css.map": "/Sahil1036/TextMe/static/css/main.49b7ef7b.css.map",
-    "main.c39e5b98.js.map": "/Sahil1036/TextMe/static/js/main.c39e5b98.js.map",
-    "787.7bc91aba.chunk.js.map": "/Sahil1036/TextMe/static/js/787.7bc91aba.chunk.js.map"
+    "main.css": "/TextMe/static/css/main.49b7ef7b.css",
+    "main.js": "/TextMe/static/js/main.405e7556.js",
+    "static/js/787.7bc91aba.chunk.js": "/TextMe/static/js/787.7bc91aba.chunk.js",
+    "index.html": "/TextMe/index.html",
+    "main.49b7ef7b.css.map": "/TextMe/static/css/main.49b7ef7b.css.map",
+    "main.405e7556.js.map": "/TextMe/static/js/main.405e7556.js.map",
+    "787.7bc91aba.chunk.js.map": "/TextMe/static/js/787.7bc91aba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49b7ef7b.css",
-    "static/js/main.c39e5b98.js"
+    "static/js/main.405e7556.js"
   ]
 }
